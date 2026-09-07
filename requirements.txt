@@ -1,0 +1,4 @@
+torch
+torchvision
+tensorboard
+anomalib @ git+https://github.com/open-edge-platform/anomalib.git@477c5e01d9bd970a87ecb759931dd8e88c6968a5
